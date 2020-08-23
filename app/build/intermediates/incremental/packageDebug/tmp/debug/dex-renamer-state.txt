@@ -1,0 +1,7 @@
+#Sun Aug 23 15:28:27 IRDT 2020
+base.0=J\:\\TestProject\\Pokemon\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=J\:\\TestProject\\Pokemon\\app\\build\\intermediates\\dex\\debug\\out\\classes2.dex

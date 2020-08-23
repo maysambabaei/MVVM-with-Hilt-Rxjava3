@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\TestProject\\Pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\favorites.xml",
+        "source": "J:\\TestProject\\Pokemon\\app\\src\\main\\res\\layout\\favorites.xml"
+    },
+    {
+        "merged": "J:\\TestProject\\Pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "J:\\TestProject\\Pokemon\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "J:\\TestProject\\Pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home.xml",
+        "source": "J:\\TestProject\\Pokemon\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "J:\\TestProject\\Pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "J:\\TestProject\\Pokemon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
